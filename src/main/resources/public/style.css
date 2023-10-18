@@ -1,6 +1,6 @@
 
 body {
-    background-color: blue;
+    background-color: white;
     left: 200px;
 }
 
@@ -16,25 +16,12 @@ ul {
     margin-left:200px;
 }
 
-button{
-    height: 50px;
-    background-color: red;
-    color: black;
-    border-radius: 20px;
-    margin-left: 200px;
-}
-
-button:hover {
-    height: 60px;
-    background-color: green;
-}
-
 h3 {
     margin-left:200px;
 }
 
 
 img {
-    height: 200px;
+    height: 300px;
     margin-left:200px;
 }
